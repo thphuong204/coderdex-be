@@ -1,0 +1,4 @@
+GET http://localhost:5000/api/pokemons?page=2&limit=20
+
+###
+GET http://localhost:5000/api/pokemons/3
